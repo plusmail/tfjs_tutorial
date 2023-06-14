@@ -1,0 +1,17 @@
+#container {
+    width: 100%;
+}
+#left, #right {
+    width: 50%;
+    float: left;
+}
+
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
+video {
+    max-height: 300px;
+}
